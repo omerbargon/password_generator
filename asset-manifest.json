@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.37a8a35c.css",
+    "main.js": "./static/js/main.c6a3539c.js",
+    "static/js/787.7da6eb2c.chunk.js": "./static/js/787.7da6eb2c.chunk.js",
+    "static/media/Gelasio-Regular.otf": "./static/media/Gelasio-Regular.291c0972dde7f6610222.otf",
+    "static/media/Gelasio-Bold.otf": "./static/media/Gelasio-Bold.1440a1947fedec69c1b7.otf",
+    "static/media/Gelasio-Bold.ttf": "./static/media/Gelasio-Bold.789892857577a866b7e3.ttf",
+    "static/media/Gelasio-Regular.ttf": "./static/media/Gelasio-Regular.e0ab901bf02ccf6f1931.ttf",
+    "static/media/Cera-GR.otf": "./static/media/Cera-GR.3ee9b5d21f041bfbd137.otf",
+    "static/media/CeraGR-Bold.otf": "./static/media/CeraGR-Bold.4f38e2edd5e8cbd7c4ad.otf",
+    "static/media/CeraGR-Thin.otf": "./static/media/CeraGR-Thin.13b8507a679016725a99.otf",
+    "static/media/CeraGR-Thin.ttf": "./static/media/CeraGR-Thin.c740c7ac16143a1b3cd8.ttf",
+    "static/media/CeraGR-Bold.ttf": "./static/media/CeraGR-Bold.a706a9631a73532d9675.ttf",
+    "index.html": "./index.html",
+    "main.37a8a35c.css.map": "./static/css/main.37a8a35c.css.map",
+    "main.c6a3539c.js.map": "./static/js/main.c6a3539c.js.map",
+    "787.7da6eb2c.chunk.js.map": "./static/js/787.7da6eb2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a8a35c.css",
+    "static/js/main.c6a3539c.js"
+  ]
+}
